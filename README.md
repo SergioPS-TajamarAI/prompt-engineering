@@ -1,4 +1,4 @@
-Para poder ejecutar correctamente los ejercicios, se debe tener un fichero .env con la siguiente estructura: 
+Para poder ejecutar correctamente los ejercicios, se debe tener un fichero .env en cada una de las carpetas (a excepción de la nº1) con la siguiente estructura: 
 ```bash
 AZURE_OPENAI_ENDPOINT=<endpoint>
 AZURE_OPENAI_API_KEY=<api_key>
